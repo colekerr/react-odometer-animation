@@ -13,6 +13,6 @@ UNDER CONSTRUCTION: For now refer to the source script and styles in ~/src/Odome
 
 ## Features / Props
 
-* Current Position: Dictate which number is currently visible by binding the value of props.currentPosition (0 for "fromValue" or 1 for "toValue")
-* Flow Direction: By defining prop.flowReverse as true or false, decide if the greater number is on the top or bottom of the "reel"
-* Faded Borders: By defining prop.fadedBorder as true or false, and prop.fadeColor as a CSS-valid color value, allow the odometer animation to fit into any solid color background and create a smoother "fade" for the transition of the numbers
+* **Current Position:** Dictate which number is currently visible by binding the value of props.currentPosition (0 for "fromValue" or 1 for "toValue")
+* **Flow Direction:** By defining prop.flowReverse as true or false, decide if the greater number is on the top or bottom of the "reel"
+* **Faded Borders:** By defining prop.fadedBorder as true or false, and prop.fadeColor as a CSS-valid color value, allow the odometer animation to fit into any solid color background and create a smoother "fade" for the transition of the numbers
