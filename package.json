@@ -1,0 +1,24 @@
+{
+  "name": "react-odometer-animation",
+  "version": "1.0.0",
+  "description": "React component that accepts two numbers (lazily) and handles the math for animating between them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "odometer",
+    "odo",
+    "speedometer",
+    "animation",
+    "js"
+  ],
+  "author": "Cole Kerr",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
